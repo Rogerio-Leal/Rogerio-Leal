@@ -9,7 +9,7 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 * **Landing Page Filme** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto4_landing_page_filme)
 * **EBAC Games Redux** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux)
 * **Ecossistema de Vendas** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-de-vendas)
-* 
+
 
 ### 💻 Tecnologias e Ferramentas
 
@@ -32,4 +32,3 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 <a href="mailto:rogerionarcizoleal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height="30">
   </a>
-</p>
