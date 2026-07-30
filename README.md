@@ -4,21 +4,17 @@
 
 ### Detalhes
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rogerio-Leal&show_icons=true&theme=dark" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rogerio-Leal&show_icons=true&theme=dark)
 
 ### Projetos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rogerio-Leal&repo=pedrogithub2406.github.io&theme=dark" />
-</a>
+![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Rogerio-Leal&repo=projeto4_landing_page_filme&theme=dark)
+
+![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Rogerio-Leal&repo=projeto_ebac_games_redux&theme=dark)
 
 ### Linguagens utilizadas
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-Leal&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-Leal&layout=compact&theme=dark)
 
 ### Contatos
 
