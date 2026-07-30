@@ -4,17 +4,22 @@
 
 ### Detalhes
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rogerio-Leal&show_icons=true&theme=dark" alt="GitHub Stats" />
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Perfil%20Ativo-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal)
 
 ### Projetos
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rogerio-Leal&repo=projeto4_landing_page_filme&theme=dark" alt="Readme Card 1" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rogerio-Leal&repo=projeto_ebac_games_redux&theme=dark" alt="Readme Card 2" />
+* **Landing Page Filme**: [![Repositório](https://img.shields.io/badge/Acessar-Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto4_landing_page_filme)
+* **EBAC Games Redux**: [![Repositório](https://img.shields.io/badge/Acessar-Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux)
 
 ### Linguagens utilizadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-Leal&layout=compact&theme=dark" alt="Top Langs" />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 
 ### Contatos
 
