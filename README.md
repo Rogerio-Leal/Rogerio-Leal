@@ -3,15 +3,13 @@
 ### Sobre o Rogério
 Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar aplicações web modernas e de alta performance, unindo o ecossistema Frontend com o Backend.
 
-### Projetos
+### 🚀 Projetos
 
-* **Landing Page Filme**: [![Repositório](https://img.shields.io/badge/Acessar-Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto4_landing_page_filme)
-  
-* **EBAC Games Redux**: [![Repositório](https://img.shields.io/badge/Acessar-Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux)
-  
-*  **Ecossistema de Vendas**: [![Repositório](https://img.shields.io/badge/Acessar-Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-vendas)
+* **Landing Page Filme** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto4_landing_page_filme)
+* **EBAC Games Redux** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux)
+* **Ecossi
 
-### Linguagens utilizadas
+### 💻 Tecnologias e Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,7 +21,7 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### Contatos
+### 📫 Contatos
 
 <a href="https://www.linkedin.com/in/rogério-leal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
