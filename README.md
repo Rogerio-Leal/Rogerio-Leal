@@ -28,7 +28,6 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 
 <a href="https://www.linkedin.com/in/rogério-leal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
-</a>
-<a href="mailto:rogerionarcizoleal@gmail.com" target="_blank">
+</a><a href="mailto:rogerionarcizoleal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" height="30">
   </a>
