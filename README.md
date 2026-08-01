@@ -3,6 +3,7 @@
 ### Sobre o Rogério
 Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar aplicações web modernas e de alta performance, unindo o ecossistema Frontend com o Backend.
 
+---
 
 ### 🚀 Projetos
 
@@ -27,6 +28,7 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+---
 
 ### 📫 Contatos
 
