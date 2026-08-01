@@ -6,9 +6,28 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 
 ### 🚀 Projetos
 
-* **EBAC Games Redux** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux)
-* **Landing Page Filme** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto4_landing_page_filme)
-* **Ecossistema de Vendas** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-vendas)
+<table>
+  <thead>
+    <tr>
+      <th align="left">Projeto</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>EBAC Games Redux</strong></td>
+      <td><a href="https://github.com"><img src="https://shields.io" alt="Repositório"></a></td>
+    </tr>
+    <tr>
+      <td><strong>Landing Page Filme</strong></td>
+      <td><a href="https://github.com"><img src="https://shields.io" alt="Repositório"></a></td>
+    </tr>
+    <tr>
+      <td><strong>Ecossistema de Vendas</strong></td>
+      <td><a href="https://github.com"><img src="https://shields.io" alt="Repositório"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### 💻 Tecnologias e Ferramentas
