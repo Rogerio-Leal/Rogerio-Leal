@@ -8,7 +8,7 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 
 * **Landing Page Filme** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto4_landing_page_filme)
 * **EBAC Games Redux** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux)
-* **Ecossistema de Vendas** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-de-vendas)
+* **Ecossistema de Vendas** — [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-vendas)
 
 
 ### 💻 Tecnologias e Ferramentas
