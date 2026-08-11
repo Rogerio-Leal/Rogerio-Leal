@@ -11,7 +11,7 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 | :--- | :--- |
 | **EBAC Games Redux** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux) |
 | **Ecossistema de Vendas** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-de-vendas) |
-| **Dashboard B2B E-commerce** 🚧 *(Em desenvolvimento)* | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/b2b-ecommerce-dashboard) |
+| **Dashboard B2B E-commerce** 🚧 *(Em desenvolvimento)* | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/b2b-ecommerce-dashboard) |
 
 ---
 
