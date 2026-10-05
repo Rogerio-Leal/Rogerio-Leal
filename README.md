@@ -9,12 +9,24 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 
 | Projeto | Acesso ao Repositório |
 | :--- | :--- |
-| **EBAC Games Redux** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux) |
-| **Ecossistema de Vendas** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-de-vendas) |
+| **Revista Gamer (Headless CMS)** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/revista-gamer-showcase) |
 | **Dashboard B2B E-commerce** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/b2b-ecommerce-dashboard) |
+| **Ecossistema de Vendas** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/ecossistema-de-vendas) |
+| **EBAC Games Redux** | [![Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/projeto_ebac_games_redux) |
 
 ---
 
+### 🌟 Projeto em Destaque
+
+#### 🎮 Revista Gamer — Portal Headless de Notícias Tech
+Aplicação de alta performance construída com **Next.js App Router**, **WordPress Headless**, **Tailwind CSS** e automações via **n8n / Docker**.
+
+[![Ver Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/revista-gamer-showcase)
+[![Acessar Site](https://img.shields.io/badge/Web-Acessar%20Site-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revistagamer.com.br)
+
+https://github.com/user-attachments/assets/244c02b8-865b-4cc5-bbc0-b25f62dcf7b7
+
+---
 
 ### 💻 Tecnologias e Ferramentas
 
