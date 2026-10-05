@@ -18,7 +18,7 @@ Sou um desenvolvedor Full Stack Apaixonado por tecnologia e focado em criar apli
 
 ### 🌟 Projeto em Destaque
 
-#### 🎮 Revista Gamer — Portal Headless de Notícias Tech
+#### 🎮 Revista Gamer — Portal Headless de Notícias
 Aplicação de alta performance construída com **Next.js App Router**, **WordPress Headless**, **Tailwind CSS** e automações via **n8n / Docker**.
 
 [![Ver Repositório](https://img.shields.io/badge/GitHub-Ver%20Repositório-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rogerio-Leal/revista-gamer-showcase)
